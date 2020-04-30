@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;box-sizing: border-box;
+}
+
+body {
+    width: 100vh;
+    height: 100vh;
+    margin: 5vw;
+    text-align: center;
+
+}
+
+label, input {
+    height: 10px;
+    line-height: 40px;
+    font-size: 30px;
+
+}
+
+div {
+    border: 2px solid black;
+    font-size: 40px;
+    margin: 20px;
+}
